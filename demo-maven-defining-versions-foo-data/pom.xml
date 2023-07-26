@@ -15,7 +15,6 @@
     <dependency>
       <groupId>com.github.andylke</groupId>
       <artifactId>demo-maven-defining-versions-data</artifactId>
-      <version>${demo-maven-defining-versions-data.version}</version>
     </dependency>
   </dependencies>
 
