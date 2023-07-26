@@ -1,0 +1,1 @@
+# demo-maven-defining-versions-multiple-modules
